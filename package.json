@@ -1,0 +1,20 @@
+{
+  "name": "ac-apps-minimal-enhance-workers",
+  "version": "0.0.1",
+  "description": "enhance/workers.js: A module bundled by ac-bundle-module.",
+  "main": "enhance/workers.js",
+  "scripts": {
+    "start": "node enhance/workers.js"
+  },
+  "keywords": [
+    "enhance/workers.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-apps-minimal/modules/ac-apps-minimal-enhance-workers/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
